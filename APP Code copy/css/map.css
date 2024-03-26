@@ -1,0 +1,16 @@
+body{
+    background-image: url("../img/King\ Power\ 3.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0px;
+}
+
+h1{
+    text-align: center;
+    color: darkblue;
+}
+
+p{
+    color: gold;
+}
